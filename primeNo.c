@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
     int Num,count=0;
+    //getting number 
     scanf("%d",&Num);
     for (int i = 2; i < Num; i++)
     {
