@@ -4,6 +4,7 @@
 void CopyS(char*p){
 	char b[100];
 	int q=0;
+	//copy string
 	while(*p>=0){
 		b[q] = *p;
 		p++;
